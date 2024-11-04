@@ -15,6 +15,3 @@ This repository holds my configuration files for [GlazeWM](https://glazewm.org/)
   
 2. Copy the configuration files into your GlazeWM config directory (typically found in ```C:\Users\YourUsername\.glzr\glazewm\```).
 3. Restart GlazeWM to apply the new configuration.
-
-
-You can save this markdown text as `README.md` in your GlazeWM configuration repository.
