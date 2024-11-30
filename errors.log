@@ -6,3 +6,15 @@
 [2m2024-11-01T17:12:06.492648Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
 [2m2024-11-02T10:28:52.533803Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
 [2m2024-11-03T04:41:08.691677Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
+[2m2024-11-07T16:23:19.915670Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.focused_window.border: Color must start with a `#`. at line 37 column 7
+[2m2024-11-21T15:56:16.052231Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: missing field `cursor_jump` at line 20 column 3
+[2m2024-11-21T15:57:08.168099Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: missing field `cursor_jump` at line 20 column 3
+[2m2024-11-21T15:57:10.777942Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: missing field `cursor_jump` at line 20 column 3
+[2m2024-11-21T15:57:27.632180Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: missing field `cursor_jump` at line 20 column 3
+[2m2024-11-21T15:57:52.475667Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general: missing field `cursor_jump` at line 20 column 3
+[2m2024-11-21T15:58:06.110847Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.cursor_jump: invalid type: boolean `false`, expected struct CursorJumpConfig at line 21 column 17
+[2m2024-11-21T15:58:34.496538Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.cursor_jump: invalid type: boolean `true`, expected struct CursorJumpConfig at line 21 column 17
+[2m2024-11-21T16:00:42.459534Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m gaps.outer_gap: invalid type: string "1px", expected struct RectDelta at line 55 column 14
+[2m2024-11-21T16:01:35.226163Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `commands` at line 147 column 5
+[2m2024-11-21T16:06:03.853064Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m unknown anchor at line 265 column 15
+[2m2024-11-21T16:06:09.463175Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m unknown anchor at line 265 column 15
